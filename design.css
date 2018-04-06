@@ -1,0 +1,22 @@
+#dir {
+  color: white;
+}
+
+#s{
+  color: white;
+  font-family:fantasy;
+}
+
+body {
+  background-color: black;
+}
+.p1 {
+  text-align:center;
+  color: white;
+  font-family: Aclonica; font-size: 16px;
+}
+.h1{
+  text-align:center;
+  color: white;
+  font-family: Aclonica; font-size: 22px;
+}
